@@ -15,13 +15,22 @@ In this theme, you will learn about 3D/4D point cloud data, fundamental point cl
 * [Point Cloud Model and Fundamental Operations](#point-cloud-model-and-fundamental-operations)
 * [Data Management of 4D Point Clouds](#data-management-of-4d-point-clouds)
 
+The aim is to understand a broad set of topics required for analyzing topographic change in point cloud time series. You will apply this knowledge in the exercise, and require it for all subsequent themes.
+
 The theme will conclude with:
 
 * [Self-evaluation quiz](#self-evaluation-quiz)
 * [Exercise](#exercise)
 * [References](#references)
 
-Afterwards, you will understand a broad set of topics required for analyzing topographic change in point cloud time series. You will apply this knowledge in the exercise, and require it for all subsequent themes.
+At the end of this theme, you will be able to:
+* Explain the importance of 3D/4D point clouds in geography
+* Name examples of application fields in environmental and geosciences
+* Characterize geographic 3D/4D Point Clouds, notably their temporal properties (multitemporal and 4D)
+* Explain the point cloud model and fundamental operations in 3D space and time
+* Remember central practices of data management of 4D point clouds
+* Handle multitemporal 3D point clouds in open-source graphical software (CloudCompare) [exercise]
+* Perform simple analysis with standard tools (manual clipping, point measurement, neighborhood features) [exercise]
 
 
 ## Introduction to Geographic 3D/4D Point Clouds
