@@ -24,6 +24,7 @@ The theme will conclude with:
 * [References](#references)
 
 At the end of this theme, you will be able to:
+
 * Explain the importance of 3D/4D point clouds in geography
 * Name examples of application fields in environmental and geosciences
 * Characterize geographic 3D/4D Point Clouds, notably their temporal properties (multitemporal and 4D)
@@ -248,6 +249,7 @@ D = {k+1 \over {4 \over 3} \pi r{^3}_{kNN}}
 $$
 
 By calculating the point density like this for every point in a point cloud, we can tell for the entire point cloud how many points are contained within a radius of, e.g., 1.0 m, in a certain area of the scene. This information can also be used to identify isolated points and removing outliers. A common method for this is the *statistical outlier removal* (SOR; [Rusu & Cousins, 2011](#references)). A selection of further useful point cloud features to be derived from the spatial neighborhood are:
+
 * **normal vectors**
 * **principal components on local point distribution**
 * **the local surface roughness**
