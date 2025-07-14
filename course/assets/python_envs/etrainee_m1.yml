@@ -14,10 +14,11 @@ dependencies:
   - xarrayutils
   - hvplot
   - datashader
-  - xmovie
   - seaborn
   - ca-certificates
   - openssl
   - libgdal-jp2openjpeg
-	- contextily
-	- matplotlib-scalebar
+  - certifi
+  - contextily
+  - matplotlib-scalebar
+  - geogif
